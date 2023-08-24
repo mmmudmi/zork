@@ -1,0 +1,41 @@
+go north
+info
+take 1
+take 2
+take 3
+take inventory
+take 3
+map
+go north
+go east
+attack with 1
+attack with 1
+go up
+take 1
+take 3
+attack with 1
+go down
+go west
+go west
+info
+attack with 1
+attack with 3
+info
+use 2
+info
+attack with 4
+take 1
+take 2
+take 4
+go south
+map
+go east
+go east
+unlock east
+go east
+attack with 5
+attack with 5
+take 1
+use 1
+attack with 3
+attack with 4

@@ -1,0 +1,39 @@
+RoomName{
+    "IS LOCK" : yes/no
+    "DROPPED INVENTORY" : name/no
+    "ROOM INVENTORY" :      //may not find
+        {
+            item : usage
+            item : usage
+        }
+    "MONSTER" : //may not find
+        {
+            NAME : name
+            HP : hp
+        }
+    "IS CURRENT ROOM" : yes
+}
+.
+.
+.
+
+
+PLAYER {
+    "LEVEL" : #
+    "EXP" : #
+    "HP" : #
+    "INVENTORY NAME": name
+    "INVENTORY" :    //may not find
+        {
+            item : usage
+            item : usage
+        }
+}
+
+MAP: mapName
+FLOOR: currentFloor
+
+JSON {RoomName1{}, .. , RoomNameN{..}, PLAYER{..}, MAP, FLOOR}
+
+AutoPilot File path:
+/Users/mudmi/Desktop/SSC/ssc-y22t3-zork-mmmudmi/src/main/java/SaveGame/auto_house_living.txt
